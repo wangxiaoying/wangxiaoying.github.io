@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Software Engineering, Tongji University, 09.2012-07.2016
 * M.S. in Computing Science, Simon Fraser University, 01.2019-now
+
 
 Work experience
 ======

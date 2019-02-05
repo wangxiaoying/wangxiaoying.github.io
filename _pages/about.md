@@ -12,4 +12,4 @@ I am a Master student at Database System Lab in Simon Fraser University, my supe
 
 I received my Bachelor degree from Tongji University, Shanghai in July 2016.
 
-I have worked in Qihoo 360 as a C++ Developer from July 2016 to April 2018.
+I worked in Qihoo 360 as a C++ Developer from July 2016 to April 2018.

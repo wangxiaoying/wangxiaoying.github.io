@@ -25,4 +25,4 @@ Work experience
     * Owner of the API service
     * Process and analyze logs for debugging and recognizing potential problems
     * Investigate new strategies to increase profit of the advertising system
-  * Leader: Xiaoming Dong
+  * Supervisor: Xiaoming Dong

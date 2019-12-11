@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "MOMO"
 title_separator          : "-"
-name                     : &name "Xiaoying Wang (王笑盈)"
+name                     : &name "Xiaoying Wang"
 description              : &description "MSc Student SFU"
 url                      : https://wangxiaoying.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaoying Wang (王笑盈)"
+  name             : "Xiaoying Wang"
   # avatar           : "beta.jpeg"
   avatar           : "photo.jpg"
   bio              : "MSc Student at SFU"

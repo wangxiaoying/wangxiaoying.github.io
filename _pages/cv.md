@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "CV"
+<!-- title: "CV" -->
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -25,4 +26,4 @@ Work experience
     * Owner of the API service
     * Process and analyze logs for debugging and recognizing potential problems
     * Investigate new strategies to increase profit of the advertising system
-  * Supervisor: Xiaoming Dong
+  * Leader: Xiaoming Dong

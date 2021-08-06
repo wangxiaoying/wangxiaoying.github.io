@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MOMO"
+title                    : "Xiaoying"
 title_separator          : "-"
 name                     : &name "Xiaoying Wang"
-description              : &description "MSc Student SFU"
+description              : &description "PhD Student SFU"
 url                      : https://wangxiaoying.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangxiaoying/wangxiaoying.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xiaoying Wang"
   # avatar           : "beta.jpeg"
-  avatar           : "photo.jpg"
-  bio              : "MSc Student at SFU"
+  avatar           : "x.jpg"
+  bio              : "PhD Student at SFU"
   email            : "xiaoying_wang@sfu.ca"
   github           : "wangxiaoying"
 
@@ -187,7 +187,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  _publications
   - scope:
       path: ""
       type: publications

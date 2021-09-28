@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please check out the full cv [here](https://github.com/wangxiaoying/wangxiaoying.github.io/blob/master/files/xywang_cv.pdf).
+Please check out the full cv [here](https://wangxiaoying.github.io/files/xywang_cv.pdf).
 
 Education
 ======

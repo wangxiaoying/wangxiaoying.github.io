@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+Please check out the full cv [here](https://github.com/wangxiaoying/wangxiaoying.github.io/blob/master/files/xywang_cv.pdf).
 
 Education
 ======
@@ -18,11 +19,8 @@ Education
 
 Work Experience
 ======
-* 07.2016-04.2018: C++ Developer on 360 AdExchange
-  * Qihoo 360 Technology Co. Ltd., Shanghai Office, China
-  * Duties included:
-    * Develop new features, fix bugs and optimize the performance and the architecture of the high-concurrency and low-latency advertising system (360 Ad Exchange)
-    * Owner of the API service
-    * Process and analyze logs for debugging and recognizing potential problems
-    * Investigate new strategies to increase profit of the advertising system
-  * Supervisor: Xiaoming Dong
+* 07.2016-04.2018: Developer of 360 AdExchange
+  * Develop and optimize the performance of the high-concurrency and low-latency advertising bidding platform
+  * Owner of the API service
+  * Process and analyze logs for debugging and recognizing potential problems
+  * Participate in investigate new strategies

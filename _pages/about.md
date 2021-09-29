@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at Database System Lab in Simon Fraser University, my supervisor is Professor [Jiannan Wang](http://www.cs.sfu.ca/~jnwang/). I worked in Qihoo 360 as a Developer of AdExchange from July 2016 to April 2018.
 
-My research interest is in **Accelerating Query Execution and Data Accessing**, including query optimization and applying ML to database applications.
+My research interest is in **Accelerating Query Processing and Data Accessing**, including query optimization and applying ML to database applications.
 
 
 # Publication

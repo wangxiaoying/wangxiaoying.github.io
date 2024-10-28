@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Xiaoying Wang"
-  # avatar           : "beta.jpeg"
   avatar           : "x.jpg"
   bio              : "PhD Student at SFU"
   email            : "xiaoying_wang@sfu.ca"
   github           : "wangxiaoying"
+  googlescholar    : "https://scholar.google.com/citations?user=aKyNcGYAAAAJ&hl=en"
 
 # Reading Files
 include:

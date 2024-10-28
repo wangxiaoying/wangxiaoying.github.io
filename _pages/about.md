@@ -8,16 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Database System Lab in Simon Fraser University, my supervisor is Professor [Jiannan Wang](http://www.cs.sfu.ca/~jnwang/). I worked in Qihoo 360 as a Developer of AdExchange from July 2016 to April 2018.
+I am a PhD student at Database System Lab in Simon Fraser University, my advisor is Professor [Jiannan Wang](http://www.cs.sfu.ca/~jnwang/). 
 
-My research interest is in **Accelerating Query Processing and Data Accessing**, including query optimization and applying ML to database applications.
+My research interest is in **Bridging the Gap Between Database and Data Science**, including applying ML to database applications and accelerating query processing and data accessing for data science tasks.
 
 
 # Publication
 
+Wii: Dynamic Budget Reallocation In Index Tuning. *SIGMOD 2024* [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3654985) [[Full Version]](https://www.microsoft.com/en-us/research/uploads/prod/2024/06/wii-full.pdf)
+
 ConnectorX: Accelerating Data Loading From Databases to Dataframes. *VLDB 2022* [[Paper]](https://vldb.org/pvldb/vol15/p2994-wang.pdf) [[Technical Report]](https://github.com/sfu-db/connector-x/blob/main/assets/Technical_Report__ConnectorX.pdf) [[Code]](https://github.com/sfu-db/connector-x)
 
 Are We Ready For Learned Cardinality Estimation? *VLDB 2021 Best EA&B Paper Award* [[Paper]](http://vldb.org/pvldb/vol14/p1640-wang.pdf) [[Code]](https://github.com/sfu-db/AreCELearnedYet)
+
 
 # Project
 

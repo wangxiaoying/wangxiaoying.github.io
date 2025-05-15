@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Please check out the full cv [here](https://wangxiaoying.github.io/files/xywang_cv.pdf).
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
-Work experience
+Work Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
